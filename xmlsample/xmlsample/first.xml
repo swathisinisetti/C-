@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+
+  <book>
+    <bookid> 1</bookid>
+    <title>c#</title>
+    <price> 45$</price>
+  </book>
+  <book>
+    <bookid> 2</bookid>
+    <title>JAVA</title>
+    <price> 44$</price>
+  </book>
+  <book>
+    <bookid> 3</bookid>
+    <title>HTML</title>
+    <price> 33$</price>
+  </book>
+</books>

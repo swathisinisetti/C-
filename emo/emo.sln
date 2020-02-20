@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emo", "emo\emo.csproj", "{B0D847CD-FBBB-480B-8A69-2C76825156BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D847CD-FBBB-480B-8A69-2C76825156BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D847CD-FBBB-480B-8A69-2C76825156BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D847CD-FBBB-480B-8A69-2C76825156BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D847CD-FBBB-480B-8A69-2C76825156BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD4180E-0D67-456E-8B94-8872EA317685}
+	EndGlobalSection
+EndGlobal

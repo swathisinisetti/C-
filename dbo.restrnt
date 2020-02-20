@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[restrnt]
+(
+	[name] VARCHAR(MAX) NOT NULL PRIMARY KEY, 
+    [location] VARCHAR(MAX) NULL, 
+    [rating] INT NULL
+)
